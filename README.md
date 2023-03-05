@@ -1,10 +1,10 @@
 # video-phrase
 
-demo: https://bdptree.github.io
+demo: https://codesplace.github.io/video
 
-version: 1.0.0
+version: 1.0
 
-license: none
+license: MIT-Licenses
 
 usages: phrase the videos only showed to the vips by easily coping the url to the text field.
 
