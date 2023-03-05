@@ -1,6 +1,6 @@
 # video-phrase
 
-demo: https://codesplace.github.io/video
+demo:  https://codesplace.github.io/video
 
 version: 1.0
 
